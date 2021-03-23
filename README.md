@@ -1,7 +1,6 @@
 # Nestjs-project
 
-# Features
+-Features
 
-## Authentication with jwt
-
-## Crud Api for product
+- Authentication with jwt
+- Crud Api for product
